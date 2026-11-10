@@ -1,7 +1,7 @@
 # BMIS 235 · HTML-1 · Styling: Psychology
 
-**Name:** YOUR NAME
-**GU username:** YOUR-GU-USERNAME
+**Name:** Grace Pedley
+**GU username:** lpedley@zagmail.gonzaga.edu
 
 My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-1/
 
