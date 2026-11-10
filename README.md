@@ -1,4 +1,4 @@
-# BMIS 235 · HTML-1 · Styling: Hello World
+# BMIS 235 · HTML-1 · Styling: Psychology
 
 **Name:** YOUR NAME
 **GU username:** YOUR-GU-USERNAME
